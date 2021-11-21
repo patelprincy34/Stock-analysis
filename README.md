@@ -4,15 +4,13 @@ Module 2.1.1 repository
 
 ## Overview of Project
 
-### The purpose of this project was to analysis and compare the stock performance between data of dozen stocks from 2017 and 2018.
+##### The purpose of this project was to analysis and compare the stock performance between data of dozen stocks from 2017 and 2018.
 
 ## Results
 
-### Results from 2017![This is an image]( ![VBA_Challenge_2017](https://user-images.githubusercontent.com/93439516/142747921-4973b8d6-672c-4dfc-a945-e7210151386d.png)
-)
+### Results from 2017 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/93439516/142747921-4973b8d6-672c-4dfc-a945-e7210151386d.png)
 
-### Results from 2018 ![This is an image]( )
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/93439516/142747925-e5177948-23ed-476f-8ba1-c648358fc8ac.png)
+### Results from 2018 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/93439516/142747925-e5177948-23ed-476f-8ba1-c648358fc8ac.png)
 
 ## Summary
 
