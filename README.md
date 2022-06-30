@@ -4,7 +4,7 @@ Module 2.1.1 repository
 
 ## Overview of Project
 
-##### The purpose of this project was to analysis and compare the stock performance between data of dozen stocks from 2017 and 2018.
+The purpose of this project was to analysis and compare the stock performance between data of dozen stocks from 2017 and 2018.
 
 ## Results
 
