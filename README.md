@@ -1,5 +1,5 @@
 # Stock-analysis
-Module 2.1.1 repository 
+
 # VBA Challenge
 
 ## Overview of Project
